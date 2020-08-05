@@ -1,0 +1,15 @@
+package cn.xu.Exception;
+
+import java.io.FileInputStream;
+import java.io.InputStream;
+
+/**
+ * ≤‚ ‘CheckedException
+ * @author shen
+ *
+ */
+public class Test2 {
+	public static void main(String[] args) {
+		InputStream is=new FileInputStream("d://a.txt");
+	}
+}

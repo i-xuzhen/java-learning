@@ -1,0 +1,26 @@
+package cn.xu.Exception;
+/**
+ * 测试自定义异常
+ * @author shen
+ *
+ */
+public class Test4 {
+	
+}
+
+
+class Person{
+	private int age;
+	
+}
+
+
+class IllegalAgeException extends RuntimeException{
+	public IllegalAgeException() {
+		// TODO Auto-generated constructor stub
+	}
+	
+	public IllegalAgeException(String msg) {
+		super(msg);
+	}
+}

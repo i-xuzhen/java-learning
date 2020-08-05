@@ -1,0 +1,9 @@
+package cn.xu.myCollection;
+/**
+ * 自定义实现一个ArrayList,体会底层原理
+ * @author shen
+ *
+ */
+public class XuArrayList {
+
+}

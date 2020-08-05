@@ -1,0 +1,11 @@
+package cn.xu.Exception;
+/**
+ * ≤‚ ‘“Ï≥£
+ * @author shen
+ *
+ */
+public class Test1 {
+	public static void main(String[] args) {
+		
+	}
+}

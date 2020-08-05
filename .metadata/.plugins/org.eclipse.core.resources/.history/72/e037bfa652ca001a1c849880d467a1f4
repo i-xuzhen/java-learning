@@ -1,0 +1,16 @@
+package cn.xu.myCollection;
+/**
+ * 用于测试自定义链表，
+ * 自己得额外定义一个节点对象
+ * 节点Node(Entry)两者都是节点的意思
+ * @author shen
+ *
+ */
+public class Node {
+	
+	Node previous;
+	Node next;
+	Object element;
+	
+	
+}

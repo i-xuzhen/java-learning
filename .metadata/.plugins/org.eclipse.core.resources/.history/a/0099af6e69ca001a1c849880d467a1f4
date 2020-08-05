@@ -1,0 +1,11 @@
+package cn.xu.myCollection;
+/**
+ * ≤‚ ‘Vector;
+ * @author shen
+ *
+ */
+public class XuVector {
+	public static void main(String[] args) {
+		
+	}
+}

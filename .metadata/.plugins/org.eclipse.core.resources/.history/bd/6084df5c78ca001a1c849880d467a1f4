@@ -1,0 +1,12 @@
+package cn.xu.contaniner;
+
+import java.util.Map;
+
+/*
+ * ²âÊÔHashMap
+ * 
+ */
+public class TestMap {
+
+	Map m1=new HashMap();
+}

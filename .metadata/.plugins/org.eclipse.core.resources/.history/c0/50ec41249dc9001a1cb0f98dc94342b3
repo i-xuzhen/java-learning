@@ -1,0 +1,38 @@
+package cn.xu.contaniner;
+
+import java.util.ArrayList;
+import java.util.List;
+
+/**
+ * 测试Collection的子接口List下的实现类：
+ * ArrayList(底层是数组)  Vector(底层是数组)  LinkedList(底层是链表)
+ * @author shen
+ *
+ */
+public class TestList {
+	public static void main(String[] args) {
+		test01();
+	}
+	
+	
+	public static void test01() {
+		List<String> list=new ArrayList<String>();
+		list.add("A");
+		list.add("B");	
+		list.add("C");	
+		list.add("D");	
+		System.out.println(list);
+		
+		list.add(2, "我");
+		System.out.println(list);
+		
+		list.remove(2);
+		System.out.println(list);
+		
+		list.set(2, "徐");
+		System.out.println(list);
+		
+	}
+	
+}
+

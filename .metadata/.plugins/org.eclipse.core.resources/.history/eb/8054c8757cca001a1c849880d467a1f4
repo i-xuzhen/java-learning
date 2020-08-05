@@ -1,0 +1,14 @@
+package cn.xu.contaniner;
+/**
+ * 测试Map的常用方法
+ * @author shen
+ *
+ */
+public class TestMap2 {
+
+}
+
+
+class Employee{
+	private int id;
+}

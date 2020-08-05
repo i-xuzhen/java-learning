@@ -1,0 +1,33 @@
+package cn.xu.packclass;
+
+import java.io.File;
+
+/**
+ * 测试使用递归遍历目录结构和树状展现
+ * @author shen
+ *
+ */
+public class TestFile3 {
+	public static void main(String[] args) {
+		File f=new File("D:\\学习文件\\就业分享会2019");
+		printFile(f);
+	
+	}
+	
+	
+	static void printFile(File file,int level) {
+		System.out.println(file.getName());
+		if(file.isDirectory()) {
+			File[] files=file.listFiles();
+			for(File temp:files){
+				printFile(temp);
+			}
+		}	
+	}
+	
+	
+	
+	
+	
+	
+}

@@ -1,0 +1,10 @@
+package cn.xu.myCollection;
+/**
+ * 测试链表
+ * 特点：查询效率低，增删效率高，线程不安全
+ * @author shen
+ *
+ */
+public class XuLinkedList01 {
+
+}

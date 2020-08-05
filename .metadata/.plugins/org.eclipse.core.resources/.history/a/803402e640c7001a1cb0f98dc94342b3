@@ -1,0 +1,10 @@
+package cn.xu.packclass;
+/**
+ * 测试枚举，
+ * 设置一组常量
+ * @author shen
+ *
+ */
+public class TestEnum {
+
+}

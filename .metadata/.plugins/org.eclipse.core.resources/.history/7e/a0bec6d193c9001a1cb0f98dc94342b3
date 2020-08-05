@@ -1,0 +1,9 @@
+package cn.xu.contaniner;
+/**
+ * 继Test01后接着测试泛型Generic
+ * @author shen
+ *
+ */
+public class TestGenerics {
+
+}

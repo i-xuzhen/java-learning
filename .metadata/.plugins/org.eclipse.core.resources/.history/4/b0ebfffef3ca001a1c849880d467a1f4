@@ -1,0 +1,7 @@
+package cn.xu.myCollection;
+/*
+ * 用于自定义的HashMap
+ */
+public class Node2 {
+
+}

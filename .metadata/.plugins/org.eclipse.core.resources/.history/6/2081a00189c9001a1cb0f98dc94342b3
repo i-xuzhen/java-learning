@@ -1,0 +1,9 @@
+package cn.xu.Exception;
+/**
+ * 测试自定义异常
+ * @author shen
+ *
+ */
+public class Test4 {
+
+}

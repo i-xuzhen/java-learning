@@ -1,0 +1,22 @@
+package cn.xu.contaniner;
+/**
+ * 测试容器
+ * 先理解泛型！
+ * @author shen
+ *
+ */
+public class Test01 {
+
+}
+
+
+class MyCollection{
+	Object[] objs=new Object[5];
+	public void set(Object obj,int index) {
+		objs[index]=obj;
+	}
+	
+	public Object get(int index) {
+		return objs[index];
+	}
+}

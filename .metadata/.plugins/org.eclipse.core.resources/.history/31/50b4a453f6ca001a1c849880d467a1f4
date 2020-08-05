@@ -1,0 +1,12 @@
+package cn.xu.myCollection;
+/*
+ * 自定义HashMap
+ */
+public class XuHashMap01 {
+	
+	Node2[] table;  //位桶数组
+	
+	
+	
+	
+}

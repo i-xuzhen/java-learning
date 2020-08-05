@@ -1,0 +1,10 @@
+package cn.xu.contaniner;
+/**
+ * 测试容器
+ * 先理解泛型！
+ * @author shen
+ *
+ */
+public class Test01 {
+
+}

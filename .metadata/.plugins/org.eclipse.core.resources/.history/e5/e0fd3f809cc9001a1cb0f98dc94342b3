@@ -1,0 +1,10 @@
+package cn.xu.contaniner;
+/**
+ * 测试Collection的子接口List下的实现类：
+ * ArrayList(底层是数组)  Vector(底层是数组)  LinkedList(底层是链表)
+ * @author shen
+ *
+ */
+public class TestList {
+
+}

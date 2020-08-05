@@ -1,0 +1,11 @@
+package cn.xu.contaniner;
+/**
+ * 
+ * @author shen
+ *
+ */
+public class TestVector {
+	public static void main(String[] args) {
+		List<String> a=new Vector();
+	}
+}
